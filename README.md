@@ -36,4 +36,4 @@ make
 
 You will get 3 executables : decode, encode and execute.
 
-Then you can pass some numbers and see how it will be decoded in operands and operators, resulting in some arithmetic operations.
+Then you can introduce some numbers and see how it will be decoded in operands and operators, resulting in some arithmetic operations.
