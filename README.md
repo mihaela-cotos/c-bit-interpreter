@@ -4,7 +4,7 @@ A simple implementation of a bit instruction interpreter, trying to simulate a p
 
 ## Project Overview
 
-This programme is designed to interpret and decode binary instructions. This project is a **mini-processor** that decodes the given instructions, each provided in a binary format. 
+This program is designed to interpret and decode binary instructions. This project is a **mini-processor** that decodes the given instructions, each provided in a binary format. 
 
 The instructions include information about the number of operations to be executed, the specific operations (+, -, *, or /), and the size of operands.
 
