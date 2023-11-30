@@ -30,7 +30,7 @@ In order to build this programme you will need the **gcc compiler** installed on
 
 To begin, clone the project and change the directory into it, then run the make command to build the project :
 ```
-cd miniprocessor
+cd c-bit-interpreter
 make
 ```
 
